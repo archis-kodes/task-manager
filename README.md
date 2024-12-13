@@ -1,1 +1,1 @@
-# task-manager
+**Task Manager** is a purely Arduino Based model that reminds you of tasks that you need to perform BEFORE or AFTER entering through a gate. This device does not have the capability to detect gate automatically and hence needs manual scanning. This device has RFID Reader attached behind it. Whenever someone is entering through a gate, he/she needs to tap the device on the RFID Card attached on or near the gate.
